@@ -1,0 +1,1 @@
+{"uuid":"772ad513-6b73-4fc9-a54c-00662946a2c6","name":"FactorySelenium","children":["dae33a3b-845d-4c0a-90e8-1c3dfd829b04"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1646035374154,"stop":1646035374162}],"afters":[],"start":1646035374114,"stop":1646035374459}
